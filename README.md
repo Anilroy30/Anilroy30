@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"
+<img align="right" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anil-1430" alt="anil-1430" /></a> </p>
 
